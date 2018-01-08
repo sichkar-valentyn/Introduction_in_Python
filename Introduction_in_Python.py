@@ -1,3 +1,14 @@
+# File: Introduction_in_Python.py
+# Description: Mathematical operations in Python
+# Environment: Spyder IDE in Anaconda environment
+#
+# MIT License
+# Copyright (c) 2017 Valentyn N Sichkar
+# github.com/sichkar-valentyn
+#
+# Reference to:
+# [1] Valentyn N Sichkar. Mathematical operations in Python // GitHub platform [Electronic resource]. URL: https://github.com/sichkar-valentyn/Introduction_in_Python (date of access: XX.XX.XXXX)
+
 """
 Created on Mon Dec 25 22:24:34 2017
 
