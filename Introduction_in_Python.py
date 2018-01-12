@@ -10,7 +10,7 @@
 # [1] Valentyn N Sichkar. Mathematical operations in Python // GitHub platform [Electronic resource]. URL: https://github.com/sichkar-valentyn/Introduction_in_Python (date of access: XX.XX.XXXX)
 
 """
-Created on Mon Dec 25 22:24:34 2017
+Created on Sun Jan 07 19:46:45 2018
 
 @author: valentyn
 """
